@@ -1,4 +1,4 @@
 # calm_discord_theme
 
 
-![alt text](https://imgur.com/a/k7wsnlr)
+![alt tag](https://imgur.com/a/k7wsnlr)
